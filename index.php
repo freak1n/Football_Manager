@@ -6,7 +6,6 @@
 		die();
 	}
 	require_once("html-snippets/header-html.php");
-	phpinfo();
 ?>
 <body>
 	<div id="page-container">
